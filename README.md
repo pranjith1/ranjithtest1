@@ -9,6 +9,7 @@ This repository contains some sample programs. All are Maven projects and can be
 
 ## How to build
 ## added one line for merge test
+## merging issue
 Run `mvn clean install` to build all sample programs
 
 ## License
