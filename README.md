@@ -9,8 +9,13 @@ This repository contains some sample programs. All are Maven projects and can be
 
 ## How to build
 ## added one line for merge test
+<<<<<<< HEAD
 ## merge test
 Run `mvn clean stall` to build all sample programs
+=======
+## merging issue
+Run `mvn clean install` to build all sample programs
+>>>>>>> sagar4
 
 ## License
 
