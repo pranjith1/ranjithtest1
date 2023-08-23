@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/chrishantha/sample-java-programs.svg?branch=master)](https://travis-ci.org/chrishantha/sample-java-programs)
 
-Sample Java Programs
+Sample Java Programsi re    
 
 ## adding one line for testing
 ====================
@@ -8,8 +8,7 @@ Sample Java Programs
 This repository contains some sample programs. All are Maven projects and can be run directly using "java -jar"
 
 ## How to build
-## added one line for merge test
-## merging issue
+## added one line for testing
 Run `mvn clean install` to build all sample programs
 
 ## License
