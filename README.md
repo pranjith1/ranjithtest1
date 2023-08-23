@@ -2,15 +2,7 @@
 
 Sample Java Programs
 
-## adding one line for testing
-====================
-## For testing purpose adding one line 
-## added one more line for testing in remote repo
-
-# added one ine for PR testing in feature branch 1
-## commented this line for testing
-## added one line for testing 
-
+# removed commented lines
 
 This repository contains some sample programs. All are Maven projects and can be run directly using "java -jar"
 
