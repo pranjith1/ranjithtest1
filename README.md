@@ -9,7 +9,8 @@ This repository contains some sample programs. All are Maven projects and can be
 
 ## How to build
 ## added one line for merge test
-Run `mvn clean install` to build all sample programs
+## merge test
+Run `mvn clean stall` to build all sample programs
 
 ## License
 
