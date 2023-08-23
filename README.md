@@ -3,6 +3,7 @@
 Sample Java Programs
 ====================
 
+## adding line for local merge
 
 This repository contains some sample programs. All are Maven projects and can be run directly using "java -jar"
 
