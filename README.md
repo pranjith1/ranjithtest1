@@ -2,7 +2,6 @@
 
 Sample Java Programs
 ====================
-## removed commented lines for pull request test
 
 
 This repository contains some sample programs. All are Maven projects and can be run directly using "java -jar"
