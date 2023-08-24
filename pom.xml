@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <!-->
     # added one line for testing 
 
+=======
+<!--
+  ## addaed onee linee for testing
+>>>>>>> uat
     # Copyright 2015 M. Isuru Tharanga Chrishantha Perera
     #
     # Licensed under the Apache License, Version 2.0 (the "License");
@@ -22,12 +27,12 @@
 
     <groupId>com.github.chrishantha.sample</groupId>
     <artifactId>java-samples</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.3-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Java Samples</name>
     <description>Java Sample Code to be used in examples (in blog, etc)</description>
-    <inceptionYear>2015</inceptionYear>
+    <inceptionYear>2023</inceptionYear>
 
     <licenses>
         <license>
@@ -105,7 +110,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.8.0</version>
+                <version>3.9.4</version>
                 <configuration>
                     <compilerVersion>${javac.target}</compilerVersion>
                     <source>${javac.target}</source>
