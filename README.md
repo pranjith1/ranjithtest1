@@ -3,12 +3,13 @@
 Sample Java Programsi re    
 
 ## adding one line for testing
+## added line for conflict test
 ====================
 
 This repository contains some sample programs. All are Maven projects and can be run directly using "java -jar"
 
 ## How to build
-## added one line for testing
+
 Run `mvn clean install` to build all sample programs
 
 ## License
